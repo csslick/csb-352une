@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://csslick.github.io/csb-352une/static/css/main.65a503fe.chunk.css",
+    "main.js": "https://csslick.github.io/csb-352une/static/js/main.ac557d3b.chunk.js",
+    "main.js.map": "https://csslick.github.io/csb-352une/static/js/main.ac557d3b.chunk.js.map",
+    "runtime-main.js": "https://csslick.github.io/csb-352une/static/js/runtime-main.0e6d20d7.js",
+    "runtime-main.js.map": "https://csslick.github.io/csb-352une/static/js/runtime-main.0e6d20d7.js.map",
+    "static/js/2.932ed853.chunk.js": "https://csslick.github.io/csb-352une/static/js/2.932ed853.chunk.js",
+    "static/js/2.932ed853.chunk.js.map": "https://csslick.github.io/csb-352une/static/js/2.932ed853.chunk.js.map",
+    "index.html": "https://csslick.github.io/csb-352une/index.html",
+    "static/css/main.65a503fe.chunk.css.map": "https://csslick.github.io/csb-352une/static/css/main.65a503fe.chunk.css.map",
+    "static/js/2.932ed853.chunk.js.LICENSE.txt": "https://csslick.github.io/csb-352une/static/js/2.932ed853.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e6d20d7.js",
+    "static/js/2.932ed853.chunk.js",
+    "static/css/main.65a503fe.chunk.css",
+    "static/js/main.ac557d3b.chunk.js"
+  ]
+}
